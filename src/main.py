@@ -2,8 +2,8 @@ from sillynames.names import select_name_from_list
 
 
 def main() -> None:
-    firstnames: list = ["Cucumber", "Toes"]
-    surnames: list = ["Cocka", "Buka"]
+    firstnames: tuple = ("Cucumber", "Toes")
+    surnames: tuple = ("Cocka", "Buka")
 
     name: str = select_name_from_list(firstnames)
     surname: str = select_name_from_list(surnames)

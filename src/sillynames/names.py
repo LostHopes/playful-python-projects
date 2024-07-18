@@ -8,6 +8,6 @@ def select_name_from_file(filename: str) -> str:
     return selected_name
 
 
-def select_name_from_list(names: list) -> str:
+def select_name_from_list(names: tuple) -> str:
     selected_name = random.choice(names)
     return selected_name
