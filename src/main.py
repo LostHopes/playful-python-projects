@@ -1,4 +1,4 @@
-from sillynames import names
+from silly import names
 
 
 def main() -> None:

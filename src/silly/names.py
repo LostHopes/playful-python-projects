@@ -1,5 +1,6 @@
 import random
 
+
 def from_file(filename: str) -> str:
     """Reads names from the list of given file"""
 

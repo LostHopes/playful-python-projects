@@ -1,5 +1,5 @@
 import pytest
-from sillynames import __version__
+from silly import __version__
 
 
 def test_random_names_in_list():
