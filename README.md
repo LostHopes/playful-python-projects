@@ -2,6 +2,7 @@
 
 The purpose of these exercises is to solve more problems with different tasks in Python.
 Why? To stimulate brain activity, why not? Because it's fun.
+By the way, each exercise has it's own branch.
 
 # Requirements
 
